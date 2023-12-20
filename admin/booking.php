@@ -142,7 +142,7 @@
     
                     if(!$rowsAffected)
                     {
-                        $messageInfo = "No Edits Administered!";
+                        $messageInfo = "No Edits Administered...";
                     }
     
                     elseif($updateResult)
