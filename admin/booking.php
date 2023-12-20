@@ -149,7 +149,7 @@
                     {
                         // Show success alert
                         $messageStatus = "success";
-                        $messageHeading = "Successfull!";
+                        $messageHeading = "Successfull...!";
                         $messageInfo = "Customer details Edited";
                     }
                     else{
